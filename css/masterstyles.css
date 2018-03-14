@@ -1,11 +1,10 @@
 * {
   background: #c0c5ce;
-  font-family: fantasy;
+  font-family: sans-serif;
 
 }
 
 h3{
-  font-family: sans-serif;
   font-weight: lighter;
 }
 
@@ -13,4 +12,12 @@ h3{
 p {
   font-family: monospace;
   font-weight: bolder;
+}
+
+img {
+  width: 280px;
+}
+
+.timestamp {
+  color: red;
 }
